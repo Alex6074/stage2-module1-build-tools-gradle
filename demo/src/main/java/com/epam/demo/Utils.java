@@ -8,6 +8,7 @@ public class Utils {
            if(!com.epam.utils.StringUtils.isPositiveNumber(s)) return false;
         }
 
+
         return true;
     }
 }
